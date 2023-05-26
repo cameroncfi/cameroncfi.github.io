@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "//cameroncfi.github.io/static/css/main.02bb9c54.css",
-    "main.js": "//cameroncfi.github.io/static/js/main.d2e70be4.js",
-    "static/media/phx.jpg": "//cameroncfi.github.io/static/media/phx.18de8d1bc3814c0216cf.jpg",
-    "static/media/MEI.jpg": "//cameroncfi.github.io/static/media/MEI.81b815754fc486871e1c.jpg",
-    "static/media/github.svg": "//cameroncfi.github.io/static/media/github.380fc2e14cbe08532410d60826f82f63.svg",
-    "static/media/youtube.svg": "//cameroncfi.github.io/static/media/youtube.de1d970b9c4b01304b2820ba0fe01ba1.svg",
-    "static/media/steam.svg": "//cameroncfi.github.io/static/media/steam.7aecc640c15059326a390a1bcf4c1ce6.svg",
-    "index.html": "//cameroncfi.github.io/index.html",
-    "static/media/discord.svg": "//cameroncfi.github.io/static/media/discord.8fbe0e999dc31fe5b171c0f32cfd2eb5.svg",
-    "main.02bb9c54.css.map": "//cameroncfi.github.io/static/css/main.02bb9c54.css.map",
-    "main.d2e70be4.js.map": "//cameroncfi.github.io/static/js/main.d2e70be4.js.map"
+    "main.css": "/static/css/main.d64c996d.css",
+    "main.js": "/static/js/main.6f3f632d.js",
+    "static/media/phx.jpg": "/static/media/phx.18de8d1bc3814c0216cf.jpg",
+    "static/media/FlightAndNav.pdf": "/static/media/FlightAndNav.87526f2284cf3aafeac0.pdf",
+    "static/media/MEI.jpg": "/static/media/MEI.81b815754fc486871e1c.jpg",
+    "static/media/github.svg": "/static/media/github.380fc2e14cbe08532410d60826f82f63.svg",
+    "index.html": "/index.html",
+    "static/media/burger.svg": "/static/media/burger.4c2718f1b786458565fa049eca50ecf1.svg",
+    "main.d64c996d.css.map": "/static/css/main.d64c996d.css.map",
+    "main.6f3f632d.js.map": "/static/js/main.6f3f632d.js.map"
   },
   "entrypoints": [
-    "static/css/main.02bb9c54.css",
-    "static/js/main.d2e70be4.js"
+    "static/css/main.d64c996d.css",
+    "static/js/main.6f3f632d.js"
   ]
 }
