@@ -1,0 +1,36 @@
+select {
+	background-color: #6e6a86;
+	border: none;
+	padding: 5px;
+	border-radius: 5px;
+	appearance: none;
+	color: #e0def4;
+}
+select:active {
+	border: none;
+}
+select:focus {
+	border: none;
+}
+select:focus {
+	outline: none;
+}
+option:hover {
+	background-color: #6e6a86;
+	border: none;
+	padding: 5px;
+	border-radius: 5px;
+	appearance: none;
+	color: #e0def4;
+}
+.lessonPlanSelector > label {
+	display: flex;
+	width: 100%;
+	justify-content: start;
+	gap: 40px;
+	align-items: center;
+}
+select option:checked {
+	background-color: #f6c177;
+	color: black;
+}
